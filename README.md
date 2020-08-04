@@ -1,7 +1,8 @@
 # vue-custom-icon
 
 Define custom icon with svg for using it in vue as component and in vuetify with v-icon tag.
-Icons define is `components/Icons`.
+Icons define is `components/Icons`.  
+
 For each icon that need to be used in vuetify it must be define in 
 `plugin/vuetify/js` and access with `$vuetify.icons.name`.
 
